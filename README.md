@@ -1,4 +1,4 @@
-# support
-Support forum for
+# Support Forum
+
 - Maker's Pet products hardware
 - Kaia.ai software
